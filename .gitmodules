@@ -1,3 +1,7 @@
 [submodule "id3lib"]
 	path = id3lib
 	url = ../../cpp-port/id3lib
+[submodule "unac"]
+	path = unac
+	url = ../../cpp-port/unac
+	branch = main
