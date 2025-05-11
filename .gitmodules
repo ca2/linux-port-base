@@ -5,3 +5,7 @@
 	path = unac
 	url = ../../cpp-port/unac
 	branch = main
+[submodule "stb"]
+	path = stb
+	url = ../../cpp-port/stb
+	branch = main
