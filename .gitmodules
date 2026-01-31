@@ -13,7 +13,3 @@
 	path = tinyobjloader
 	url = ../../cpp-port/tiny-tinyobjloader
 	branch = main
-[submodule "glm"]
-	path = glm
-	url = ../../g-truc/glm
-	branch = master
